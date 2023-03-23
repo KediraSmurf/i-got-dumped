@@ -9,4 +9,4 @@ It is me Kedira who sent these files... doubt? check my discord profile
 https://aridekvm.us
 
 
-<img src="https://github.com/KediraSmurf/i-got-dumped/blob/main/lmao.png" width="128"/>
+<img src="https://github.com/KediraSmurf/i-got-dumped/blob/main/lmao.png"/>
